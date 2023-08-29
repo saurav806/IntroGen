@@ -1,0 +1,15 @@
+{
+  "name": "introgen",
+  "version": "1.0.0",
+  "description": "This can generate intro of the student",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurav Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
